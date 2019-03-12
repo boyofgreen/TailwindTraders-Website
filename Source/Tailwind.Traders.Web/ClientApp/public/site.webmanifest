@@ -11,6 +11,14 @@
             "src": "/android-chrome-256x256.png",
             "sizes": "256x256",
             "type": "image/png"
+        },
+        {
+            "src": "/Square150x150Logo.png",
+            "sizes": "150x150"
+        },
+        {
+            "src": "/Square300x300Logo.png",
+            "sizes": "300x300"
         }
     ],
     "theme_color": "#ffffff",
